@@ -4,5 +4,5 @@
 mapping:
   components:
     - name: mvp-test-component
-      repository: quay.io/redhat-appstudio-qe/test-images
+      repository: quay.io/redhat-appstudio-qe/test-release-images
       # tag: latest
