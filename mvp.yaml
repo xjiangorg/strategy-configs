@@ -2,6 +2,7 @@
 # A mapping is used to filter all the pullspecs in an ApplicationSnapshot and to define
 # the target repository, and optionally the tag, for the built image.
 mapping:
-  - component: mvp-test-component
-    repository: quay.io/redhat-appstudio-qe/test-images
-#    tag: latest
+  components:
+    - name: mvp-test-component
+      repository: quay.io/redhat-appstudio-qe/test-images
+      # tag: latest
