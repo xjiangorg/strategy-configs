@@ -1,4 +1,0 @@
-mapping:
-  components:
-  - name: dc-metro-map-zajz
-    repository: quay.io/redhat-appstudio-qe/test-release-images
