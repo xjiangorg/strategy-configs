@@ -1,0 +1,4 @@
+mapping:
+  components:
+  - name: rhtap-demo-component-igiy
+    repository: quay.io/redhat-appstudio-qe/test-release-images
